@@ -1,2 +1,2 @@
-# Meus-c-digos
+# Meus-codigos
 Aqui posto todos meus projetos e códigos.
